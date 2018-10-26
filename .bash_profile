@@ -15,3 +15,4 @@ ssh() {
         command ssh "$@"
     fi
 }
+. ~/.bashrc
